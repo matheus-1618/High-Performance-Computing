@@ -1,2 +1,2 @@
 # High-Performance-Computing
-Materials and resolutions for HPC class
+Materials and resolutions for  Insper HPC classes.
